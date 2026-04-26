@@ -178,10 +178,10 @@ class Cristian:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=criqui-tech&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=criqui-tech&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
